@@ -3,7 +3,7 @@ task : diffusion으로 빛 번짐 제거 프로젝트
 방법론  
 1.unet + resnet  
 2.SRGAN  
-3.inpainting  
+3.inpainting - hugging face   
 4.diffusion  
 
 ![image](https://github.com/dlekgo79/diffusion-deblur/assets/90365178/0a6da01b-616e-4609-b720-30d86950e55c)  
